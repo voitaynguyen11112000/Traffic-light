@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=CLAMP_REF Pin=D2-2
+Added Pin To Net: NetName=CLAMP_REF Pin=D2-3
+Added Pin To Net: NetName=RE3 Pin=J11-37
+Added Pin To Net: NetName=RE3 Pin=J12-37
+Added Pin To Net: NetName=RE3 Pin=J13-37
+Added Room: Name=Sheet1

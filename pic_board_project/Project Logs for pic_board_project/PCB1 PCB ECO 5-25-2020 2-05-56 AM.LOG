@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=RE3 Pin=J11-37
+Removed Pin From Net: NetName=RE3 Pin=J12-37
+Removed Pin From Net: NetName=RE3 Pin=J13-37
+Change Component Footprint: Designator=J11 Old Footprint=DIP.100/40/W.600/L2.100 New Footprint=HDR2X20
+Change Component Footprint: Designator=J12 Old Footprint=DIP.100/40/W.600/L2.100 New Footprint=HDR2X20
+Change Component Footprint: Designator=J13 Old Footprint=DIP.100/40/W.600/L2.100 New Footprint=HDR2X20
+Change component parameters: Designator = "J11"; Footprint = "HDR2X20"; UniqueID = "\FHOVOWZJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J12"; Footprint = "HDR2X20"; UniqueID = "\NVFPAJKE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J13"; Footprint = "HDR2X20"; UniqueID = "\MNITWXYA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLabel196 Pin=J11-37
+Added Pin To Net: NetName=NetLabel196 Pin=J12-37
+Added Pin To Net: NetName=NetLabel196 Pin=J13-37
+Added Net: Name=NetLabel196
+Added Room: Name=Sheet1

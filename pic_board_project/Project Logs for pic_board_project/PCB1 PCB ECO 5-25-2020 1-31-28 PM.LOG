@@ -1,0 +1,36 @@
+Change Component Footprint: Designator=MG1 Old Footprint=R 1206 (3216) New Footprint=RAD-0.4
+Change Component Comment : Designator=C15 Old Comment=0.47uF New Comment=0.47uF/16V
+Change Component Comment : Designator=C12 Old Comment=10uF New Comment=10uF/16V
+Change Component Comment : Designator=C14 Old Comment=10uF New Comment=10uF/16V
+Change Component Comment : Designator=C21 Old Comment=10uF New Comment=10uF/16V
+Change Component Comment : Designator=C22 Old Comment=47uF New Comment=47uF/35V
+Change Component Comment : Designator=C1 Old Comment=470uF New Comment=470uF/25V
+Change Component Comment : Designator=C3 Old Comment=470uF New Comment=470uF/25V
+Change Component Comment : Designator=D4 Old Comment=1000 New Comment=ZHCS1000
+Change Component Comment : Designator=Q4 Old Comment=3904 New Comment=MMBT3904
+Change Component Comment : Designator=Q7 Old Comment=3904 New Comment=MMBT3904
+Change Component Comment : Designator=Q8 Old Comment=3904 New Comment=MMBT3904
+Change Component Comment : Designator=Q2 Old Comment=3906 New Comment=MMBT3906
+Change Component Comment : Designator=Q3 Old Comment=3906 New Comment=MMBT3906
+Change Component Comment : Designator=Q5 Old Comment=3906 New Comment=MMBT3906
+Change Component Comment : Designator=Q6 Old Comment=3906 New Comment=MMBT3906
+Change Component Comment : Designator=D14 Old Comment=4007 New Comment=1N4007
+Change Component Comment : Designator=D2 Old Comment=4148 New Comment=1N4148
+Change Component Comment : Designator=Q1 Old Comment=6402 New Comment=IRLML6402
+Change Component Comment : Designator=D3 Old Comment=BAT54 New Comment=BAT54/SOT
+Change Component Comment : Designator=D16 Old Comment=BUSY New Comment=LED BUSY
+Change Component Comment : Designator=SW6 Old Comment=RESET New Comment=SW_RESET
+Change Component Comment : Designator=D17 Old Comment=TARGET New Comment=LED TARGET
+Added Pin To Net: NetName=NetC29_2 Pin=U7-1
+Added Pin To Net: NetName=NetC31_1 Pin=U7-2
+Added Pin To Net: NetName=NetC29_1 Pin=U7-3
+Added Pin To Net: NetName=NetC30_2 Pin=U7-4
+Added Pin To Net: NetName=NetC30_1 Pin=U7-5
+Added Pin To Net: NetName=NetC32_2 Pin=U7-6
+Added Pin To Net: NetName=RC6 Pin=U7-11
+Added Pin To Net: NetName=RC7 Pin=U7-12
+Added Pin To Net: NetName=RxIN Pin=U7-13
+Added Pin To Net: NetName=TxOUT Pin=U7-14
+Added Pin To Net: NetName=GND Pin=U7-15
+Added Pin To Net: NetName=VCC_UART Pin=U7-16
+Added Room: Name=Sheet1

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P1 Old Footprint=CON DB9 FEMALE New Footprint=CON DB9 FEMALE ROTATY
+Change Component Comment : Designator=R52 Old Comment=10K_VAR New Comment=10K
+Added Room: Name=Sheet1

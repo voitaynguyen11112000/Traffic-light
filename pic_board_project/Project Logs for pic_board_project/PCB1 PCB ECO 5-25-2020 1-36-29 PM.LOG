@@ -1,0 +1,16 @@
+Added Component: Designator=U7(SOIC-16)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC29_2 Pin=U7-1
+Added Pin To Net: NetName=NetC31_1 Pin=U7-2
+Added Pin To Net: NetName=NetC29_1 Pin=U7-3
+Added Pin To Net: NetName=NetC30_2 Pin=U7-4
+Added Pin To Net: NetName=NetC30_1 Pin=U7-5
+Added Pin To Net: NetName=NetC32_2 Pin=U7-6
+Added Pin To Net: NetName=RC6 Pin=U7-11
+Added Pin To Net: NetName=RC7 Pin=U7-12
+Added Pin To Net: NetName=RxIN Pin=U7-13
+Added Pin To Net: NetName=TxOUT Pin=U7-14
+Added Pin To Net: NetName=GND Pin=U7-15
+Added Pin To Net: NetName=VCC_UART Pin=U7-16
+Added Member To Class: ClassName=Sheet1 Member=Component U7 MAX232
+Added Room: Name=Sheet1

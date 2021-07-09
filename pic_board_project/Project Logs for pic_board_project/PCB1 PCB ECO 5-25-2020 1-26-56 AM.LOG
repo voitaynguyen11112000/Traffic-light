@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VDD_TGT_OUTPUT Pin=D2-A
+Change Component Footprint: Designator=D2 Old Footprint=DIOAD829W49L456D191 New Footprint=SOT-23
+Added Pin To Net: NetName=VDD_TGT_OUTPUT Pin=D2-1
+Added Pin To Net: NetName=CLAMP_REF Pin=D2-2
+Added Room: Name=Sheet1
