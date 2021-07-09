@@ -1,0 +1,74 @@
+Added Component: Designator=Den1(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Den2(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=IC(DIP 16)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PORTD(HDR2X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=seven1(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=seven2(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Q2 Pin=Den1-1
+Added Pin To Net: NetName=Q3 Pin=Den1-2
+Added Pin To Net: NetName=Q4 Pin=Den1-3
+Added Pin To Net: NetName=GND Pin=Den1-4
+Added Pin To Net: NetName=Q5 Pin=Den2-1
+Added Pin To Net: NetName=Q6 Pin=Den2-2
+Added Pin To Net: NetName=Q7 Pin=Den2-3
+Added Pin To Net: NetName=GND Pin=Den2-4
+Added Pin To Net: NetName=Q2 Pin=IC-2
+Added Pin To Net: NetName=Q3 Pin=IC-3
+Added Pin To Net: NetName=Q4 Pin=IC-4
+Added Pin To Net: NetName=Q5 Pin=IC-5
+Added Pin To Net: NetName=Q6 Pin=IC-6
+Added Pin To Net: NetName=Q7 Pin=IC-7
+Added Pin To Net: NetName=GND Pin=IC-8
+Added Pin To Net: NetName=VCC Pin=IC-10
+Added Pin To Net: NetName=D4 Pin=IC-11
+Added Pin To Net: NetName=D5 Pin=IC-12
+Added Pin To Net: NetName=GND Pin=IC-13
+Added Pin To Net: NetName=D6 Pin=IC-14
+Added Pin To Net: NetName=VCC Pin=IC-16
+Added Pin To Net: NetName=D0 Pin=PORTD-1
+Added Pin To Net: NetName=D1 Pin=PORTD-2
+Added Pin To Net: NetName=D2 Pin=PORTD-3
+Added Pin To Net: NetName=D3 Pin=PORTD-4
+Added Pin To Net: NetName=D4 Pin=PORTD-5
+Added Pin To Net: NetName=D5 Pin=PORTD-6
+Added Pin To Net: NetName=D6 Pin=PORTD-7
+Added Pin To Net: NetName=VCC Pin=PORTD-9
+Added Pin To Net: NetName=GND Pin=PORTD-10
+Added Pin To Net: NetName=VCC Pin=seven1-1
+Added Pin To Net: NetName=GND Pin=seven1-2
+Added Pin To Net: NetName=D2 Pin=seven1-3
+Added Pin To Net: NetName=D0 Pin=seven1-4
+Added Pin To Net: NetName=D1 Pin=seven1-5
+Added Pin To Net: NetName=VCC Pin=seven2-1
+Added Pin To Net: NetName=GND Pin=seven2-2
+Added Pin To Net: NetName=D3 Pin=seven2-3
+Added Pin To Net: NetName=D0 Pin=seven2-4
+Added Pin To Net: NetName=D1 Pin=seven2-5
+Added Member To Class: ClassName=Sheet1 Member=Component Den1 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component Den2 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component IC 74HC595
+Added Member To Class: ClassName=Sheet1 Member=Component PORTD Header 5X2
+Added Member To Class: ClassName=Sheet1 Member=Component seven1 Header 5
+Added Member To Class: ClassName=Sheet1 Member=Component seven2 Header 5
+Added Room: Name=Sheet1
