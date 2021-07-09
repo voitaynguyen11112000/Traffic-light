@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/BT%20PIC/libraries/libraries/uart/uart.h</file>
+            <file>file:/D:/BT%20PIC/libraries/libraries/i2c/i2c.c</file>
+            <file>file:/D:/BT%20PIC/libraries/libraries/uart/uart.c</file>
+            <file>file:/D:/BT%20PIC/libraries/libraries/i2c/i2c.h</file>
+            <file>file:/D:/BT%20PIC/libraries/libraries/lcd/lcd.h</file>
+            <file>file:/D:/BT%20PIC/libraries/libraries/interrupt/interrupt.c</file>
+            <file>file:/D:/BT%20PIC/libraries/libraries/simulate_machine/simulate_machine.c</file>
+            <file>file:/D:/BT%20PIC/libraries/libraries/pwm/pwm.c</file>
+            <file>file:/D:/BT%20PIC/libraries/libraries/timer/timer.c</file>
+            <file>file:/D:/BT%20PIC/libraries/libraries/simulate_machine/simulate_machine.h</file>
+            <file>file:/D:/BT%20PIC/libraries/libraries/adc/adc.h</file>
+            <file>file:/D:/BT%20PIC/libraries/libraries/pwm/pwm.h</file>
+            <file>file:/D:/BT%20PIC/libraries/libraries/button/button.h</file>
+            <file>file:/D:/BT%20PIC/libraries/libraries/adc/adc.c</file>
+            <file>file:/D:/BT%20PIC/libraries/libraries/button/button.c</file>
+            <file>file:/D:/BT%20PIC/libraries/libraries/button/main.h</file>
+            <file>file:/D:/BT%20PIC/BTL_Traffic_Light.X/main.c</file>
+        </group>
+    </open-files>
+</project-private>
